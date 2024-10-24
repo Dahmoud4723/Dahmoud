@@ -1,4 +1,5 @@
 # Dahmoud
-portfolio
-git add
-git commit-m "salut
+mkdir mon-projet
+cd mon-projet
+git init
+
